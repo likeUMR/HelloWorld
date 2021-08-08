@@ -11,7 +11,7 @@ import re
 import json
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62'}
-#cookies={'UM_distinctid':'1786c37bce19bf-03a966f2aabbda-5c3f1d4d-144000-1786c37bce2b73','Hm_lvt_fcd79bd95b6da3b03dfe6cbc0dd48b21':'1617005043,1618214278,1619069887','tq_ci_session_id':'n048l597g2ls53qf67j9sip51m35iqqb'}
+
 url="https://tongqu.sjtu.edu.cn/act/type?type=0&status=0&order=hotvalue"
 website=r"https://tongqu.sjtu.edu.cn/act/"
 
